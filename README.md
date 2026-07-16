@@ -1,6 +1,8 @@
 # Machine Musicians Max/MSP Patches
 
-This repository contains Max/MSP example patches that accompany the book *Machine Musicians: The Complete Guide to AI for Music Performance* by Jason Palamara.
+This repository contains Max/MSP example patches that accompany the book *Making Machine Musicians: AI for Live Musical Performance* by Jason Palamara.
+
+https://www.routledge.com/Making-Machine-Musicians-AI-for-Live-Musical-Performance/Palamara/p/book/9781032840543
 
 ## Contents
 
