@@ -21,3 +21,7 @@ Beyond the first few chapter's tutorials, this GitHub repository intentionally d
 3. Follow the instructions in each patch’s comment boxes.
 
 Questions or suggestions? Open an issue or email me at [japalama@iu.edu].
+
+## Errata / Known errors in the published edition of the book
+Chapter 5
+Image 5.4 - In the published first edition, image 5.4 includes the "send MIDIears" object before it is discussed in the text. This will be fixed in future editions, but for now, the patch should work as shown anyway assuming the reader builds it exaclty as shown. Read further into Chapter 5 for an explanation of send objects and their usage here.
