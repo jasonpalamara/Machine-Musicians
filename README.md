@@ -13,6 +13,9 @@ Beyond the first few chapter's tutorials, this GitHub repository intentionally d
 - Chapter 3
 - Chapter 4
 - Chapter 5
+- Chapter 6
+- Chapter 7
+- Chapter 8
 
 ## How to Use
 
