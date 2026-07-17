@@ -9,6 +9,7 @@ https://www.routledge.com/Making-Machine-Musicians-AI-for-Live-Musical-Performan
 - Chapter 2
 - Chapter 3
 - Chapter 4
+- Chapter 5
 
 ## How to Use
 
