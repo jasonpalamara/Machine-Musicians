@@ -6,8 +6,9 @@ https://www.routledge.com/Making-Machine-Musicians-AI-for-Live-Musical-Performan
 
 ## Contents
 
-- `chapter3-generative.maxpat`: Simple generative patch
-- `chapter5-audio-classifier.maxpat`: Audio classifier using ml.star
+- Chapter 2
+- Chapter 3
+- Chapter 4
 
 ## How to Use
 
