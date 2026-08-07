@@ -18,6 +18,10 @@ Beyond the first few chapter's tutorials, this GitHub repository intentionally d
 - Chapter 8
 - Chapter 10
 
+## Figures
+
+This folder is optional to download. 
+
 ## How to Use
 
 1. Download and install [Max/MSP](https://cycling74.com).
