@@ -41,7 +41,7 @@ chapters and topics. To download all materials:
 3. Extract the downloaded archive and open the patch files using Max/MSP (on a Mac, this can be accomplished easily by double clicking on the zipped file, on a PC, right click on the zipped file and click "extract all," then choose a destination for the folder. Make note of wherever this folder ends up as you will need it later.
 4. The text of the book will periodically instruct you to find things in this folder, so don't lose it (though if you do you can always download it again from GitHub).
 
-Chapter 5
+**Chapter 5**
 Image 5.4 - In the published first edition, image 5.4 includes the "send MIDIears" object before it is discussed in the text. This will be fixed in future editions, but for now, the patch should work as shown anyway assuming the reader builds it exaclty as shown. Read further into Chapter 5 for an explanation of send objects and their usage here.
 
 *learning to find your own solutions is good for you...like eating your veggies. -DrJP
