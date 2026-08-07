@@ -22,7 +22,7 @@ Beyond the first few chapter's tutorials, this GitHub repository intentionally d
 
 1. Download and install [Max/MSP](https://cycling74.com).
 2. Open the `.maxpat` files directly in Max.
-3. Follow the instructions in each patch’s comment boxes.
+3. Follow the instructions in the text regarding each patch or snippet.
 
 Questions or suggestions? Open an issue or email me at [japalama@iu.edu].
 
